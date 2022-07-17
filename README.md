@@ -1,4 +1,4 @@
-# (project name)
+# (Introduction to coaches )
 
 <!-- describe your project -->
 
@@ -11,6 +11,8 @@
 3. `npm install`
 
 ## Code Quality Checks
+
+### to check if your code quality is good
 
 - `npm run format`: Makes sure all the code in this repository is well-formatted
   (looks good).
