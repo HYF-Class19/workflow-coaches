@@ -1,5 +1,11 @@
 # (Introduction to coaches )
 
+## Coaches Members
+
+- Samir
+- Tugba
+- Tamer
+
 <!-- describe your project -->
 
 ## Getting Started
